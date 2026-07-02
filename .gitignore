@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+
+# Backend static (frontend build output)
+backend/static/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+.dockerignore
+
+# GCP / Cloud
+.gcloud/
+service-account-key.json
+*.json.key
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
