@@ -97,6 +97,14 @@ LEADS_TEMPLATE = {
             "status": "PENDING",
             "call_id": None,
         },
+        {
+            "name": "Balajji",
+            "phone": "+917569732863",
+            "email": "balajji@email.com",
+            "notes": "Real phone for campaign demo",
+            "status": "PENDING",
+            "call_id": None,
+        },
     ],
     "bluesky-rentals": [
         {
@@ -123,6 +131,14 @@ LEADS_TEMPLATE = {
             "status": "PENDING",
             "call_id": None,
         },
+        {
+            "name": "Balajji",
+            "phone": "+917569732863",
+            "email": "balajji@email.com",
+            "notes": "Real phone for campaign demo",
+            "status": "PENDING",
+            "call_id": None,
+        },
     ],
     "krid-ai": [
         {
@@ -145,6 +161,14 @@ LEADS_TEMPLATE = {
             "name": "Prashant",
             "phone": "+919949429430",
             "email": "prashant@email.com",
+            "notes": "Real phone for campaign demo",
+            "status": "PENDING",
+            "call_id": None,
+        },
+        {
+            "name": "Balajji",
+            "phone": "+917569732863",
+            "email": "balajji@email.com",
             "notes": "Real phone for campaign demo",
             "status": "PENDING",
             "call_id": None,
